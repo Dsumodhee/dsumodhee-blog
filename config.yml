@@ -3,7 +3,7 @@ site:
   baseline: ""
   baseurl: "/"
   canonicalurl: true
-  description: "Professional Website of Dr Dayyanah Sumodhee"
+  description: "Chartered Health Psychologist"
   pagination:
     max: 5
     path: "page"
