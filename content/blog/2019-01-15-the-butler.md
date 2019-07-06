@@ -1,7 +1,7 @@
 ---
-title: "The butler"
+title: The Health Psychologist and CBT
 date: 2019-02-07T12:37:00.000Z
-image: /images/butler.jpg
+image: /images/280px-depicting_basic_tenets_of_cbt.jpg
 tags:
   - Cecil
   - SSG
