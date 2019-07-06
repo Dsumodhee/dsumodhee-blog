@@ -1,15 +1,15 @@
 site:
-  title: "Starter blog"
-  baseline: "Your blog's butler."
+  title: "Dr Dayyanah Sumodhee"
+  baseline: ""
   baseurl: "/"
   canonicalurl: true
-  description: "A starter blog, powered by Cecil and Netlify CMS."
+  description: "Professional Website of Dr Dayyanah Sumodhee"
   pagination:
     max: 5
     path: "page"
   date:
     format: "j F Y"
-    timezone: "Europe/Paris"
+    timezone: "Europe/London"
   netlify:
     cms:
       path: "admin"
